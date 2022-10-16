@@ -1,2 +1,2 @@
-# menu-app
-Created with CodeSandbox
+# Menu App
+Created with ReactJS
